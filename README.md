@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as an intern at **Creative Software**
 
-- 🧑‍💻 I love self-studying different tech stacks to improve my knowledge
+- 🧑‍💻 I love self-studying different tech stacks to improve my knowledge on programming
 
 - 🌱 I’m currently learning **Angular, Python, Typescript, MongoDB, C#**
 
