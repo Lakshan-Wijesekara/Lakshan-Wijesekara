@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working as an intern at **Creative Software**
 
+- 🧑‍💻 I love self-studying different tech stacks to improve my knowledge
+
 - 🌱 I’m currently learning **Angular, Python, Typescript, MongoDB, C#**
 
 - 📝 I regularly write articles on [https://techstream.tech](https://techstream.tech)
