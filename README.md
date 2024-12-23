@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshan-wijesekara&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan-wijesekara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshan-wijesekara" alt="lakshan-wijesekara" /></a> </p>
-
 - 🔭 I’m currently working as an intern at **Creative Software**
 
 - 🧑‍💻 I love self-studying different tech stacks to improve my knowledge on programming
