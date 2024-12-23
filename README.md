@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lakshan wijesekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshan wijesekara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lakshan-wijesekara-07baa7131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshan wijesekara" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/28842327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28842327" height="30" width="40" /></a>
 <a href="https://medium.com/@lwijesekara149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lwijesekara149" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techstream" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techstream" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@techstream9009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techstream" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ropt4ynw9p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ropt4ynw9p" height="30" width="40" /></a>
 </p>
 
