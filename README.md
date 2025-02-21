@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshan Wijesekara</h1>
-<h3 align="center">A passionate frontend developer from Colombo, Sri Lanka</h3>
+<h3 align="center">A passionate full-stack developer from Colombo, Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshan-wijesekara&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan-wijesekara" /> </p>
 
